@@ -1,0 +1,6 @@
+There are a couple choices that need to be made concerning Digital Preservation that are somewhat interconnected.
+•	Is it plausible to archive everything we can?
+If we were to archive literally everything that was avalible then we would quickly face storage space concerns due to the immense amount of data being stored. If we run out of space how will we be able to archive anything.  Even if we don’t run out of space is it possible to archive every single state of a digital resource? Websites change over time, and sometimes change a lot regularly. Is it plausible to archive the 
+•	What is actually worth being archived?
+Some things that we archive may not have any worth being archived, maybe due to being a near duplicate of something else already archived or by being of no cultural, philosophical, educational or entertainment value
+•	Some things may be unable to be archived due to legal reasons.
