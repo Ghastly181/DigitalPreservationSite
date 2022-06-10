@@ -1,3 +1,8 @@
+  .myDiv {
+  border: 5px outset purple;
+  background-color: #d8da3d;
+  text-align: center;
+}
   body {
    padding-left: 11em;
    font-family: Georgia, "Times New Roman",
